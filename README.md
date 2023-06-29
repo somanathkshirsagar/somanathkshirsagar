@@ -1,6 +1,65 @@
 # Hi there! 👋 I'm Somnath Kshirasagr - Your Data Scientist Extraordinaire! 🧑‍🔬🚀
 
-![data-scientist-image](https://example.com/data-scientist-image.png)
+<section data-parallax="scroll" height="100px">       
+                <canvas id="c" height="400" width="1000"></canvas>
+              <script>
+                var ctr = 0;
+                var color = '#'+Math.floor(Math.random()*16777215).toString(16);
+                function draw(){
+                    if (ctr % 100 == 0) {
+                        color = '#'+Math.floor(Math.random()*16777215).toString(16);
+                    }
+                    // console.log(ctr);
+                    ctx.fillStyle="rgba(0, 0,0,0.05)",
+                    ctx.fillRect(0,0,c.width,c.height),
+                    // ctx.fillStyle="#F0F",
+                    ctx.fillStyle=color,
+                    ctr += 1;
+                    ctx.font=font_size+"px arial";
+                        for (var a=0;a<drops.length;a++) {
+                            var b=j[Math.floor(Math.random()*j.length)];
+                            ctx.fillText(b, a*font_size, drops[a]*font_size), 
+                            drops[a]*font_size > c.height && Math.random() > 0.975 && (drops[a]=0), 
+                            drops[a]++
+                        }
+                    }
+                    var c=document.getElementById("c"),
+                    ctx=c.getContext("2d");
+                    c.height=400, 
+                    c.width=1000;
+                    var j= "abcdefghijklmnopqrstuvwxyz1!2@3#4$5%6^7&8*9(0)";
+                    j = j.split("");
+                    for (var font_size=15, columns=c.width/font_size, drops=[], x=0; x<columns; x++)
+                        drops[x]=1;
+                        setInterval(draw, 33);
+              </script>
+
+                <ul class="home-social">
+                    <li>
+                        <a href="https://scholar.google.com/citations?user=wTTF4yYAAAAJ&amp;hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.semanticscholar.org/author/Atharva-Naik/2064353087"><i class="ai ai-semantic-scholar" aria-hidden="true"></i><span>Semantic Scholar</span></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="ai ai-arxiv" aria-hidden="true"></i><span>Arxiv</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.researchgate.net/profile/Atharva_Naik"><i class="ai ai-researchgate" aria-hidden="true"></i><span>Research Gate</span></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="ai ai-orcid" aria-hidden="true"></i><span>OrcID</span></a>
+                    </li>
+                    <li>
+                        <a href="http://github.com/atharva-naik"><i class="fab fa-github" aria-hidden="true"></i><span>Github</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/atharva-naik-112888190/"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+                    </li>
+                </ul> 
+                <!-- end home-social -->
+        
+            </section>
 
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my data-driven world. Feel free to explore and reach out to me if you have any questions or need assistance with your data science projects. Let's dive right in! 💡
 
