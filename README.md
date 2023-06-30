@@ -51,3 +51,9 @@ I'm always excited to collaborate, learn, and share my expertise with fellow dat
 
 Let's embark on a data-driven journey together and unleash the potential of your data! 🚀🔬💡
 - <img alt="" src="https://media.tenor.com/images/4a37815ddbf2e92d8f082ca3a0aa02fb/tenor.gif" width="200px">
+
+An inch of time is an inch of gold, but you can't buy that inch of time with an inch of gold.
+>----->----->----->----->----->----->
+
+
+
