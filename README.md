@@ -59,9 +59,9 @@ Here's a list of my skills and areas of expertise that make me a versatile data 
             <img src="./assets/icons/fastapi.png" width="65px"/>
             <br /> FastAPI
          </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/AWS.png" width="65px"/>
-            <br /> 
+        <td align="center" width="200" height="160">
+            <img src="./assets/icons/Amazon-Web-Services-AWS-Emblem.png" width="65px"/>
+            <br /> AWS Sagemaker
         </td>
          <td align="center" width="140" height="112.43">
             <img src="./assets/icons/Streamlit.png" width="65px"/>
