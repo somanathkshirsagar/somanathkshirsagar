@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here, you'll find an overview of my skills, expert
 
 ## About Me ℹ️
 
-![profile-image](https://example.com/profile-image.png)
+![Alt Text](https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif)
 
 I'm Somnath Kshirasagr, a passionate data scientist with a strong educational background. I hold a Bachelor's degree in Computer Science from Pune University, and I further honed my skills by pursuing a Master's degree in Data Science from Fergusson College. With my combined knowledge of computer science and data science, I'm well-equipped to tackle complex data challenges and extract meaningful insights from diverse datasets. Let's unleash the power of data together! 💪
 
