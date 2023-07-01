@@ -65,7 +65,7 @@ Here's a list of my skills and areas of expertise that make me a versatile data 
         </td>
          <td align="center" width="140" height="112.43">
             <img src="./assets/icons/stm.png" width="65px"/>
-            <br /> Streamlit
+            <br /> 
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/docker.png" width="65px"/>
