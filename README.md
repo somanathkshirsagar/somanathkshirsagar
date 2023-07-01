@@ -30,6 +30,43 @@ Here's a list of my skills and areas of expertise that make me a versatile data 
 - **API Development** 🌐: I'm skilled in developing APIs, including RESTful APIs and frameworks like FastAPI. This enables seamless integration of data science models into web applications, enabling real-time predictions, efficient data exchange, and building interactive data-driven applications.
 
 - **AWS for Cloud Data Science** ☁️: I'm actively learning and leveraging Amazon Web Services (AWS) for cloud-based data science solutions. With AWS services like S3, EC2, and SageMaker, I'm able to harness the scalability and power of the cloud to tackle big data challenges.
+-   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
+
 
 ## Data Science Projects and Contributions 🚀
 
