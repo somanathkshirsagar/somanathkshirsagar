@@ -100,5 +100,9 @@ Let's embark on a data-driven journey together and unleash the potential of your
 An inch of time is an inch of gold, but you can't buy that inch of time with an inch of gold.
 >----->----->----->----->----->----->
 
+![Alt Text](https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif)
+
+
+
 
 
