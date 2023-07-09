@@ -89,10 +89,16 @@ Here are some highlights from my data science journey, showcasing my ability to 
 ## Let's Connect! 🤝
 
 I'm always excited to collaborate, learn, and share my expertise with fellow data enthusiasts. If you have any questions, need assistance with your data science projects, or simply want to connect, feel free to reach out to me using the following channels:
+## Contact Me
 
-- Email: 📧 [somanathtk198@gamil.com](somanathtk198@gamil.com)
-- LinkedIn: 🔗 [Somnath Kshirasagr](https://www.linkedin.com/in/somnath-kshirasagar-b73ba2212/)
-- Twitter: 🐦 [SKshirasagr](https://twitter.com/SKshirasagr)
+***Hit me up on any platform if you want to have a talk!***
+
+<a href="mailto:somanathtk198@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/somnath-kshirasagar-b73ba2212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/Somnath_9696" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.kaggle.com/somanathkshirasagar" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
+<a href="https://www.youtube.com/channel/UCUMBgJEWzDeQpnBD9cCuSFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+
 
 Let's embark on a data-driven journey together and unleash the potential of your data! 🚀🔬💡
 - <img alt="" src="https://media.tenor.com/images/4a37815ddbf2e92d8f082ca3a0aa02fb/tenor.gif" width="200px">
