@@ -98,7 +98,8 @@ I'm always excited to collaborate, learn, and share my expertise with fellow dat
 <a href="https://twitter.com/Somnath_9696" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/somanathkshirasagar" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://www.youtube.com/channel/UCUMBgJEWzDeQpnBD9cCuSFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.hackerrank.com/somanathtk198?hr_r=1" target="_blank"><img src="https://www.hackerrank.com/somanathtk198?hr_r=1" alt="Hackerrank"></a>
+<a href="https://www.hackerrank.com/dashboard" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40"></a>
+
 <img src="https://komarev.com/ghpvc/?username=somanathkshirsagar" alt="Profile Views" style="font-size: 24px;">
 
 Let's embark on a data-driven journey together and unleash the potential of your data! 🚀🔬💡
