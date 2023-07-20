@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my data-driven world. Feel free to explore and reach out to me if you have any questions or need assistance with your data science projects. Let's dive right in! 💡
 
-## About Me ℹ️
+## About Me ℹ️ 
 
 <img src="https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif" width="880" height="400" alt="Alt Text">
 
