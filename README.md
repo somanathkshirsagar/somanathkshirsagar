@@ -1,4 +1,4 @@
-# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Somnath Kshirasagr - Your Data Scientist Extraordinaire! 🧑‍🔬🚀   
+# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Somnath Kshirasagr - Your Data Scientist Extraordinaire! 🧑‍🔬🚀    
 
 
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my data-driven world. Feel free to explore and reach out to me if you have any questions or need assistance with your data science projects. Let's dive right in! 💡
