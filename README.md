@@ -1,3 +1,7 @@
+<p align="left">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile%20I%20am%20NLP%20Researchers;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
+</p>
+
 # Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Somnath Kshirasagr - Your Data Scientist Extraordinaire! 🧑‍🔬🚀     
 
 
