@@ -40,7 +40,7 @@ Here's a list of my skills and areas of expertise that make me a versatile data 
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./assets/icons/python.jpeg" width="65px"/> 
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
